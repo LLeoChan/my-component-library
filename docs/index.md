@@ -5,4 +5,4 @@
 ## 安装
 
 ```bash
-npm install my-component-library
+npm i my-component-library_leochan532
