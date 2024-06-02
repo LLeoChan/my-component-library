@@ -4,14 +4,15 @@
 
 ## 安装
 
-```bash
+bash
+已上传npm
 npm i my-component-library_leochan532
 
 # ConfigProvider
 
 ## Description
 
-The `ConfigProvider` component provides global configuration for your application, such as theme and localization.
+“ConfigProvider”组件为您的应用程序提供全局配置，例如主题和本地化。
 
 ## Usage
 
@@ -36,7 +37,7 @@ export default {
 
 ## Description
 
-The `CustomSwitch` component is a toggle switch that can be used to switch between two states.
+`CustomSwitch` 组件是一个切换开关，可用于在两种状态之间切换。
 
 ## Usage
 
@@ -64,7 +65,7 @@ export default {
 
 ## Description
 
-The `FormComponent` is a customizable form with validation rules.
+`FormComponent` 是一个带有验证规则的可定制表单。
 
 ## Usage
 
@@ -87,7 +88,7 @@ export default {
 
 ## Description
 
-The `GlobalMessage` component is used to show global messages to the user.
+`GlobalMessage` 组件用于向用户显示全局消息。
 
 ## Usage
 
@@ -115,7 +116,7 @@ export default {
 
 ## Description
 
-The `ImageCarousel` component displays a carousel of images.
+`ImageCarousel` 组件显示图像轮播。
 
 ## Usage
 
