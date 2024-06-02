@@ -4,9 +4,9 @@
 
 ## 安装
 
-bash
+
 已上传npm
-npm i my-component-library_leochan532
+#  npm i my-component-library_leochan532
 
 # ConfigProvider
 
