@@ -11,12 +11,9 @@
 import ConfigProvider from './components/ConfigProvider.vue';
 import CustomSwitch from './components/CustomSwitch.vue';
 import GlobalMessage from './components/GlobalMessage.vue'; 
-import InfiniteList from './components/InfiniteList.vue';
-import NavigationMenu from './components/NavigationMenu.vue';
 import ImagePreview from './components/ImagePreview.vue';
-import ModalDialog from './component/ModalDialog.vue';
 import ImageCarousel from './component/ImageCarousel.vue';
-
+import FormComponent from './component/FormComponent.vue';
 
 
 export default {
@@ -25,11 +22,9 @@ export default {
     ConfigProvider,
     CustomSwitch,
     GlobalMessage,
-    InfiniteList, 
-    NavigationMenu,
     ImagePreview,
-    ModalDialog,
     ImageCarousel,
+    FormComponent,
     
   },
   data() {
