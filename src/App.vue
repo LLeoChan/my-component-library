@@ -10,7 +10,7 @@
 <script>
 import ConfigProvider from './components/ConfigProvider.vue';
 import CustomSwitch from './components/CustomSwitch.vue';
-import GlobalMessage from './components/GlobalMessage.vue'; // 修改引入的组件名
+import GlobalMessage from './components/GlobalMessage.vue'; 
 import InfiniteList from './components/InfiniteList.vue';
 
 export default {
@@ -19,7 +19,7 @@ export default {
     ConfigProvider,
     CustomSwitch,
     GlobalMessage,
-    InfiniteList, // 修改组件名
+    InfiniteList, 
   },
   data() {
     return {
@@ -40,5 +40,5 @@ export default {
 </script>
 
 <style>
-/* 你的全局样式可以放在这里 */
+
 </style>
