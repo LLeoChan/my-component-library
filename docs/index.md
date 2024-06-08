@@ -10,13 +10,11 @@
 
 # ConfigProvider
 
-## Description
+## 描述
 
 “ConfigProvider”组件为您的应用程序提供全局配置，例如主题和本地化。
 
-## Usage
 
-```vue
 <template>
   <ConfigProvider themeColor="#f0f0f0">
     <YourComponent />
@@ -39,9 +37,7 @@ export default {
 
 `CustomSwitch` 组件是一个切换开关，可用于在两种状态之间切换。
 
-## Usage
 
-```vue
 <template>
   <CustomSwitch v-model="switchValue" />
 </template>
@@ -67,9 +63,7 @@ export default {
 
 `FormComponent` 是一个带有验证规则的可定制表单。
 
-## Usage
 
-```vue
 <template>
   <FormComponent />
 </template>
@@ -90,9 +84,7 @@ export default {
 
 `GlobalMessage` 组件用于向用户显示全局消息。
 
-## Usage
 
-```vue
 <template>
   <GlobalMessage ref="message" />
 </template>
@@ -112,15 +104,21 @@ export default {
 };
 </script>
 
+# ImagePreview
+
+## Description
+
+'ImagePreview'组件提供具有缩放和旋转功能的图像预览。
+
+
+
 # ImageCarousel
 
 ## Description
 
 `ImageCarousel` 组件显示图像轮播。
 
-## Usage
 
-```vue
 <template>
   <ImageCarousel :images="imageList" />
 </template>
